@@ -1,0 +1,607 @@
+
+Windows IP Configuration
+
+    justgetflux.com
+    ----------------------------------------
+    Record Name . . . . . : justgetflux.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 552
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 216.176.200.22
+
+
+    cdn.developerinsider.co
+    ----------------------------------------
+    Record Name . . . . . : cdn.developerinsider.co
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2204
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 174.138.121.238
+
+
+    ext3-lhr1.steamserver.net
+    ----------------------------------------
+    Record Name . . . . . : ext3-lhr1.steamserver.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 9671
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 162.254.196.68
+
+
+    example.org
+    ----------------------------------------
+    Record Name . . . . . : example.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15022
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 93.184.216.34
+
+
+    ext2-fra1.steamserver.net
+    ----------------------------------------
+    Record Name . . . . . : ext2-fra1.steamserver.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 913
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 162.254.197.54
+
+
+    ext2-fra2.steamserver.net
+    ----------------------------------------
+    Record Name . . . . . : ext2-fra2.steamserver.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1447
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 155.133.226.78
+
+
+    youtube-ui.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.166.46
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.166.174
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.42.78
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.67.238
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.77.78
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.182.206
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.182.238
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.183.14
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.183.142
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.183.174
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.183.206
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.66.14
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.199.142
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.199.174
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.42.110
+
+
+    Record Name . . . . . : youtube-ui.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 216.58.203.14
+
+
+    i.ytimg.com
+    ----------------------------------------
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.183.22
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.183.150
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.183.182
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.183.214
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.66.22
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.199.150
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.199.182
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.42.118
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.167.182
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 216.58.203.54
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 216.58.196.86
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.160.182
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.76.182
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.67.214
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.67.150
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.76.214
+
+
+    i.ytimg.com
+    ----------------------------------------
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 173
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2404:6800:4009:820::2016
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 173
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2404:6800:4009:824::2016
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 173
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2404:6800:4009:825::2016
+
+
+    Record Name . . . . . : i.ytimg.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 173
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2404:6800:4009:826::2016
+
+
+    ipv4only.arpa
+    ----------------------------------------
+    Record Name . . . . . : ipv4only.arpa
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15104
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.0.0.170
+
+
+    Record Name . . . . . : ipv4only.arpa
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15104
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.0.0.171
+
+
+    sync-1-us-west1-g.sync.services.mozilla.com
+    ----------------------------------------
+    Record Name . . . . . : sync-1-us-west1-g.sync.services.mozilla.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2670
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.186.227.140
+
+
+    1.pool.ntp.org
+    ----------------------------------------
+    Record Name . . . . . : 1.pool.ntp.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 31
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 162.159.200.123
+
+
+    Record Name . . . . . : 1.pool.ntp.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 31
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 162.159.200.1
+
+
+    Record Name . . . . . : 1.pool.ntp.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 31
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 178.215.228.24
+
+
+    Record Name . . . . . : 1.pool.ntp.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 31
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 13.126.27.131
+
+
+    rr3.sn-w2gqpbpu5a-cvhl.googlevideo.com
+    ----------------------------------------
+    Record Name . . . . . : rr3.sn-w2gqpbpu5a-cvhl.googlevideo.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1432
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 183.87.171.142
+
+
+    rr3.sn-w2gqpbpu5a-cvhl.googlevideo.com
+    ----------------------------------------
+    Record Name . . . . . : rr3.sn-w2gqpbpu5a-cvhl.googlevideo.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 1432
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2403:7100:2:3::e
+
+
+    ext1-fra2.steamserver.net
+    ----------------------------------------
+    Record Name . . . . . : ext1-fra2.steamserver.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 10641
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 155.133.226.75
+
+
+    darkreader.org
+    ----------------------------------------
+    Record Name . . . . . : darkreader.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1901
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.108.153
+
+
+    Record Name . . . . . : darkreader.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1901
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.109.153
+
+
+    Record Name . . . . . : darkreader.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1901
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.110.153
+
+
+    Record Name . . . . . : darkreader.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1901
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.199.111.153
+
+
+    rr5.sn-cvh7kn6s.googlevideo.com
+    ----------------------------------------
+    Record Name . . . . . : rr5.sn-cvh7kn6s.googlevideo.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1432
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.141.74
+
+
+    rr5.sn-cvh7kn6s.googlevideo.com
+    ----------------------------------------
+    Record Name . . . . . : rr5.sn-cvh7kn6s.googlevideo.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 1432
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2404:6800:4009:22::a
+
+
+    sponsor.ajay.app
+    ----------------------------------------
+    Record Name . . . . . : sponsor.ajay.app
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 237
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:e6::ac40:c024
+
+
+    Record Name . . . . . : sponsor.ajay.app
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 237
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:e6::ac40:c124
+
+
+    sponsor.ajay.app
+    ----------------------------------------
+    Record Name . . . . . : sponsor.ajay.app
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 140
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.64.193.36
+
+
+    Record Name . . . . . : sponsor.ajay.app
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 140
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.64.192.36
+
+
+    ext4-sgp1.steamserver.net
+    ----------------------------------------
+    Record Name . . . . . : ext4-sgp1.steamserver.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 9212
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 103.10.124.125
+
+
+    cs9.wac.phicdn.net
+    ----------------------------------------
+    Record Name . . . . . : cs9.wac.phicdn.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 650
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 117.18.237.29
+
+
+    ext1-lhr1.steamserver.net
+    ----------------------------------------
+    Record Name . . . . . : ext1-lhr1.steamserver.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 529
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 162.254.196.67
+
+
+    prod.detectportal.prod.cloudops.mozgcp.net
+    ----------------------------------------
+    Record Name . . . . . : prod.detectportal.prod.cloudops.mozgcp.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 110
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 34.107.221.82
+
+
+    prod.detectportal.prod.cloudops.mozgcp.net
+    ----------------------------------------
+    Record Name . . . . . : prod.detectportal.prod.cloudops.mozgcp.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 449
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2600:1901:0:38d7::
+
+
+    rr3---sn-w2gqpbpu5a-cvhl.googlevideo.com
+    ----------------------------------------
+    Record Name . . . . . : rr3---sn-w2gqpbpu5a-cvhl.googlevideo.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 776
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : rr3.sn-w2gqpbpu5a-cvhl.googlevideo.com
+
+
+    Record Name . . . . . : rr3.sn-w2gqpbpu5a-cvhl.googlevideo.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 776
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 183.87.171.142
+
+

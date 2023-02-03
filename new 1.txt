@@ -1,0 +1,23 @@
+Gametime.MaxVariableFPS 58
+
+SLE:
+Comparison of types of D/A converters, Specify Accuracy and resolution of each type.
+
+Prepare presentation for different blocks of D/A converter and explain working.
+
+
+
+
+%windir%\System32\shell32.dll,-50
+C:\Windows\Blank.ico,0
+
+Counter-Strike Global Offensive
+
+6422276
+6422280
+6422284
+
+
+4122110001564717
+620
+8928762308

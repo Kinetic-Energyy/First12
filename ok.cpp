@@ -1,26 +1,54 @@
-#include<iostream>
-#include<conio.h>
-// #include <stdc++.h>
+#include <iostream>
+#include <conio.h>
 using namespace std;
+//Program:
 
-int sum(int a , int b)
-{
-    return a+b;
-}
-int sum(int a , int b, int c)
-{
-    return a+b+c;
-}
-float volume(float f){
-    return (f*f*f);
-}
-int main(){
-    cout<<"Sum of 6 and 4 is :"<< sum(6,4)<<endl;
-    cout<<"Sum of 6 , 1 and 4 is :"<< sum(6,4,1);
-    float o;
-    cout<<"\nEnter Side of Cube : ";
-    cin>>o;
-    cout<<"Your Volume is : "<<volume(o);
-    return 0;
-}
+#include<string.h>
 
+//using namespace std;
+
+class employee{
+
+
+public:
+
+string emp_id,emp_name;
+
+int emp_salary:
+
+void accept()
+
+cout<<"Enter employee id: ";
+
+cin>>emp_id:
+
+cout<<"Enter employee name:;
+
+cin>>emp_name;
+
+cout<<"Enter salary:;
+
+cin>>emp_salary;
+
+void display()
+{
+
+cout<<"Employee id: "<<emp_id<<endl;
+
+cout<<"Employee name: "<<emp_name<<endl;
+
+cout<<"Salary :"<<emp_salary<<endl;
+}
+};
+
+int main()
+{	
+	employee a;
+	a.accept();
+	a.display();
+
+obs[i].accept():
+
+cout<<"Employees Salary :"<<endl;
+
+return 0;}
