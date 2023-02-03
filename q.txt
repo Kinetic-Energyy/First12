@@ -1,0 +1,15 @@
+C++ ASSIGNMENT
+1.Write a note on various operators in C++.
+2.Write a program from the user to accept basic salary as input, Dearness Allowance(DA) will be 40% of Basic salary, House Rent Allowance(HA) will be 20% of basic salary. Calculate and display the Gross Salary. (Basic+DA+HA)
+3.The distance between two cities is entered by the user (in kms). Write a program to convert and print the distance in meters, feets,inches and centimeters.
+4.Write a program to allow the user to enter any character from ‘R’,’G’,’B’,’Y’. Depending upon the selection display the color names. Also consider lower cases of the above characters.
+5.Write a program to allow the user enter a number, and display the corresponding month name. Give a proper error message if the value exceeds 12.
+6.Write a program to find the average of the user entered numbers using while loop.
+7.Write a program to get the following output:
+1 1 1 1 1
+2 2 2 2 2
+3 3 3 3 3
+4 4 4 4 4
+8.WAP to find the sum of square of numbers from 1 to 100.
+9.WAP to accept 9 values from the user using array. Display the array values along with their corresponding subscript. Eg: a[0]=10, a[1]=20….
+Submission Date: 24th September 2022.
